@@ -69,8 +69,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ## Screenshots :point_down: 
 <div align="center">
-<a href="C1.PNG"><img src="C1.PNG" width="450" height= "250"></a> <br>
-<a href="C2.PNG"><img src="C2.PNG" width="250" height= "450"></a>
+<a href="C1.jpeg"><img src="C1.jpeg" width="450" height= "250"></a> <br>
+<a href="C2.jpeg"><img src="C2.jpeg" width="250" height= "450"></a>
 </div>
 
 

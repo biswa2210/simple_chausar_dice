@@ -19,7 +19,19 @@ I have made this for playing this game. Those who don't have idea of this they c
 User just has to tap on any chausar dice.
 ## Folder Structure :point_down:
 ```bash
-
+simple_chausar_dice
+     ├── assets
+     |      ├── fonts
+     |      |     └── SR.ttf
+     |      └── images
+     |            ├── dice1.png
+     |            ├── dice2.png
+     |            ├── dice3.png
+     |            ├── dice4.png
+     |            ├── dice5.png
+     |            └── dice6.png
+     └── lib
+           └── main.dart
 ```
      
 ## Making :point_down:

@@ -1,6 +1,6 @@
 # SIMPLE-CHUSAR-DIECES-FLUTTER-APPLICATION :star_struck:
 
-[![Generic badge](https://img.shields.io/badge/intermediate-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/)
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -19,40 +19,11 @@ I have made this for playing this game. Those who don't have idea of this they c
 User just has to tap on any chausar dice.
 ## Folder Structure :point_down:
 ```bash
-simple-covid-tracker
-       ├── assets
-       |     ├── 2.0x
-       |     ├── 3.0x
-       |     ├── fonts
-       |     |    └── MBW.otf
-       |     ├── count.png
-       |     ├── death.png
-       |     ├── fever.png
-       |     ├── patient.png
-       |     └── suspect.png
-       ├── lib
-       |    ├── app
-       |    |    ├── repositries
-       |    |    |       ├── data_repositries.dart
-       |    |    |       └── endpointsdatas.dart
-       |    |    ├── services
-       |    |    |       ├── .gitignore
-       |    |    |       ├── api.dart
-       |    |    |       ├── app_services.dart
-       |    |    |       ├── data_cache_service.dart
-       |    |    |       └── endpointdata.dart
-       |    |    └── ui
-       |    |         ├── dashboard.dart
-       |    |         ├── endpoint.dart
-       |    |         ├── last_updated_date.dart
-       |    |         └── show_alert_dialog.dart
-       |    └── main.dart
-       └── rest_api
-              └── ncov_2019_api.http
+
 ```
      
 ## Making :point_down:
- I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend.
+ I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. Here the ramdomly changed dices are actually images.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
